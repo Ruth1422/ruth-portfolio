@@ -72,7 +72,7 @@ KTH Kungliga Tekniska Högskolan — Civilingenjör i Informationsteknik
 Relevanta kurser: Interaktionsprogrammering, Datornätverk, Algoritmer och datastrukturer, Databaser, Datorteknik, Industriell ekonomi, Projektledning.
 
 Utbildningsplan:  
-https://www.kth.se/student/kurser/program/CINTE (kth.se in Bing)
+https://www.kth.se/student/kurser/program/CINTE
 
 SPRÅK
 Engelska — Flytande
