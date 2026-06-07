@@ -24,6 +24,11 @@ Förbättrade användarvänlighet och flöde
 Arbetade med Git, kodgranskningar och gemensamma utvecklingsrutiner
 Kod: Privat GitHub‑repo (tillgång ges på förfrågan)
 
+Exemple på mina kode under projektet: där jag jobbade med css och försökte ge bättre UX and UI
+<img width="377" height="378" alt="image" src="https://github.com/user-attachments/assets/8341d264-c563-4e4d-b898-20b3344c42dc" />
+
+
+
 FÄRDIGHETER
 
 JavaScript, Java, HTML/CSS
